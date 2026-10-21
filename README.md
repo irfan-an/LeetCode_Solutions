@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/irfan-an/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/irfan-an/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/irfan-an/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
