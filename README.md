@@ -26,6 +26,7 @@
 | [0027-remove-element](https://github.com/irfan-an/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/irfan-an/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/irfan-an/LeetCode_Solutions/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/irfan-an/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/irfan-an/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
